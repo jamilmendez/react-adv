@@ -17,7 +17,11 @@
     "react-scripts": "^5.0.0",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1",
+<<<<<<< HEAD
     "yup": "^0.32.11"
+=======
+    "yup": "^0.32.9"
+>>>>>>> 6751ffa5a6a6c0b60ab498e2e49a23a3d849d16f
   },
   "scripts": {
     "start": "react-scripts start",
